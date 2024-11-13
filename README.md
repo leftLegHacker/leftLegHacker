@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leftLegHacker Currently a sophomore in computer science with an emphisis in informmation Security
+- 👋 Hi, I’m @leftLegHacker, currently I'm a sophomore in Computer Science with an emphisis in Informmation Security.
 My background includes years of hands-on experience in diagnostics, which I’ve applied to problem-solving in various technical environments.
 Recently, I attended DEFCON, where I participated in the car hacking village, contributing my knowledge to restore communication within a CAN bus system.
 This experience allowed me to integrate my understanding of system vulnerabilities with practical solutions. I’m excited to apply the critical thinking and
